@@ -11,3 +11,7 @@ body{
 	height: 200px;
 	border: 1px solid #000;
 }
+
+.header h1{
+	color: #fff;
+}
